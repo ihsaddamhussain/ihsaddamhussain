@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Solution Architect</h3>
 
 <h3 align="left">Roles & Responsibilities:</h3>
-<p align="left"> <img src="https://github.com/ihsaddamhussain/ihsaddamhussain/blob/main/mytask.png" alt="tasks" /> </p>
+<p align="left"> <img src="https://github.com/ihsaddamhussain/ihsaddamhussain/blob/main/tasks.svg" alt="tasks" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsaddamhussain&label=Profile%20views&color=0e75b6&style=flat" alt="ihsaddamhussain" /> </p>
 
