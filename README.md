@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saddam Hussain I H</h1>
-<h3 align="center">A passionate Solution Architect</h3>
+<h3 align="center">A Passionate Solution Architect</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/cover-sam.png" height="200"/>
+</p>
 <p align="left">
   <em>
 👋 Hey there, code wanderers! I am your "Solution Sorcerer" because when it comes to architecture, I've got the blueprint to your Hogwarts (or Helm's Deep if you're into that 🏰) <br><br>
