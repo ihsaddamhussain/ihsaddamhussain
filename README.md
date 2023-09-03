@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saddam Hussain I H</h1>
 <h3 align="center">A passionate Solution Architect</h3>
 
+<h3 align="left">Roles & Responsibilities:</h3>
+<p align="left"> <img src="https://github.com/ihsaddamhussain/ihsaddamhussain/blob/main/mytask.png" alt="tasks" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsaddamhussain&label=Profile%20views&color=0e75b6&style=flat" alt="ihsaddamhussain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsaddamhussain" alt="ihsaddamhussain" /></a> </p>
