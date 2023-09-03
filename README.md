@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Saddam Hussain I H</h1>
-<h3 align="center">Solution Architect | Technical Content Writer | AI Enthusiast</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/cover-sam.png" height="200"/>
 </p>
+<hr>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/Hi.gif" width="30px">, I'm Saddam Hussain I H</h1>
+<h3 align="center">Solution Architect | Technical Content Writer | AI Enthusiast</h3>
 <p align="left">
   <em>
 👋 Hey there, code wanderers! I am your "Solution Sorcerer" because when it comes to architecture, I've got the blueprint to your Hogwarts (or Helm's Deep if you're into that 🏰) <br><br>
