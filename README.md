@@ -51,6 +51,6 @@ So, feel free to stalk my repos, or better yet, let's collaborate. Because remem
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsaddamhussain&show_icons=true&locale=en&layout=compact" alt="ihsaddamhussain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsaddamhussain&show_icons=true&locale=en" alt="ihsaddamhussain" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsaddamhussain&show_icons=true&locale=en" alt="ihsaddamhussain" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=ihsaddamhussain" alt="ihsaddamhussain" /></p>
