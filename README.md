@@ -54,3 +54,5 @@ So, feel free to stalk my repos, or better yet, let's collaborate. Because remem
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ihsaddamhussain&show_icons=true&locale=en" alt="ihsaddamhussain" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=ihsaddamhussain" alt="ihsaddamhussain" /></p>
+
+[![ihsaddamhussain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ihsaddamhussain&theme=react-dark)](https://github.com/ihsaddamhussain/github-readme-activity-graph)
