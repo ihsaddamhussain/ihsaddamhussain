@@ -18,7 +18,7 @@ So, feel free to stalk my repos, or better yet, let's collaborate. Because remem
   <img src="https://raw.githubusercontent.com/hussainsam/hussainsam/main/images/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <h3 align="left">Roles & Responsibilities:</h3>
-<p align="left"> <img src="https://animuml.obpcdl.org/plantuml/png/RPJBajem44Nt_Wg5FJ-GHQeyjfbA1LFK2DWBkm5bP8deCOHAykzfv0UIF5ltgUw-rrVzfOKJbq3UgcANRrxN5Ma4CoRBdXyMEsWkaZTCaEht5RJb1XQ46RAho9_iNqZIkx7G6LA2uMVf8Lgcq5Qheu1kIPNuuFBigIrDgK9rdNjCjLn9Gj-v4CQZ1VsauKzeBAcPP6VeGDg-Pvs2BywWLcD8tZZ4FFMIfzGEM4SA9GGxAkt7zsgBsOf2kHR9xkhiAAIOKHGQfxczUr1m9flUFJeZ3o1RfLCPXvcCabb6QjM26AUMCsO3zgRqEzdB5hInJBOZkzdFT5oOF4CwjwZdlqIYJgUS8MjWMawQrpFI6Qiwq6Ib6ZVyjfM7CWpDSldtsoCNNydYkpmfZO79TNFX5d-Yqx38iEOPD1EP4gveZ24O0-_u8iEq-3hsmdeb6UQf9SSxUIHraHL36GE0vKAxXcDsJx6r6LOzXG6O5kcxJ35vLGn3bo7HhxDwaBd0Q1jou_P29fqRW1P9p4XFqcInACsuuS1HB_0DVZck0ICnH0KT6813FImd761mC0rzHegBufYZx517RdPNrjZKpR8EtGhSpCLPuRXBXvjZAWBBAsFGez6raXkh-T5Pr3AyS9HGXoRtndgfuskaZRhYT0n7C7r_RPb56S-JChpiYUkLZ5oiP6IsD6JIUp9XHOIbls0TxX_qIa_9HFP16SdqbZo55h5GrZqUOh1LLEzlo0-fRfYKSw2HHjXqHF8Rq_2O-oGFaO8X8DK74owHMaPWV4Kc28CGGCCPYMsDsioFHuRl970Y2A-_hFr9-0y0" alt="tasks" /> </p>
+<p align="left"> <img src="https://github.com/ihsaddamhussain/ihsaddamhussain/blob/main/hussainsam-solarch.PNG" alt="tasks" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsaddamhussain&label=Profile%20views&color=0e75b6&style=flat" alt="ihsaddamhussain" /> </p>
 
